@@ -1,0 +1,5 @@
+C:\Users\prith\OneDrive\Documents\Kinect STuff\SkeletonBasics-D2D\x64\Debug\SkeletonBasics-D2D.exe
+C:\Users\prith\OneDrive\Documents\Kinect STuff\SkeletonBasics-D2D\x64\Debug\SkeletonBasics-D2D.vcxproj.CopyComplete
+C:\Users\prith\OneDrive\Documents\Kinect STuff\SkeletonBasics-D2D\x64\Debug\xlsxwriter.dll
+C:\Users\prith\OneDrive\Documents\Kinect STuff\SkeletonBasics-D2D\x64\Debug\minizip.dll
+C:\Users\prith\OneDrive\Documents\Kinect STuff\SkeletonBasics-D2D\x64\Debug\zlibd1.dll
